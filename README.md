@@ -1,4 +1,4 @@
-browser_sample_ios
+browser sample for ios5
 ==================
-
-iosのお勉強
+ios5のお勉強。
+参考にしたサイト：http://webpaprika.com/625.html
