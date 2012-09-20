@@ -35,7 +35,7 @@
 }
 
 - (IBAction)homeButton:(id)sender {
-    NSURL *url = [NSURL URLWithString:@"http://www.google.com"];
+    NSURL *url = [NSURL URLWithString:@"http://www.google.com/maps?hl=ja"];
     [webPage loadRequest:[NSURLRequest requestWithURL:url]];    
 }
 
